@@ -9,3 +9,6 @@
 ## Commands related to checking status or log history
  * git status
  * git log
+
+## Push work to Github
+ * git push origin master
